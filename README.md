@@ -6,7 +6,7 @@
 
 ## 🛠 Ключевые компетенции
 
-* **Data Science:** ML (Sklearn, CatBoost, Scipy), разработка кастомных трансформеров, валидация моделей.
+* **Data Science:** ML (Sklearn, Scipy), разработка кастомных трансформеров, валидация моделей.
 * **Аналитика:** EDA, статистическое тестирование гипотез (Statsmodels), работа с социально-экономическими индексами.
 * **Engineering:** Python (ООП), работа с REST API, SQL (PostgreSQL), Git.
 * **Библиотеки:** Pandas, NumPy, Matplotlib, Seaborn, Joblib.
