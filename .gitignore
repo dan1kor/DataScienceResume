@@ -1,0 +1,38 @@
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (если данные большие)
+*.csv
+*.pkl
+*.h5
+*.parquet
+data/
+
+# OS
+.DS_Store
+Thumbs.db
